@@ -9,6 +9,7 @@ h1 {
 li {
 	display: inline; /*http://www.w3schools.com/css/css_navbar.asp*/
 	font-size: 20px;
+	color: black; 
 }
 
 ul {
