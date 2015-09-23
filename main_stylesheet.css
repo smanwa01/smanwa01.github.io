@@ -6,3 +6,6 @@ h1 {
 	font-family: cambria; 
 }
 
+li {
+	display: inline; /*http://www.w3schools.com/css/css_navbar.asp*/
+}
