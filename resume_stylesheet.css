@@ -6,12 +6,9 @@ h1 {
 	font-family: cambria; 
 }
 
-li {
+#nav {
 	display: inline; /*http://www.w3schools.com/css/css_navbar.asp*/
 	font-size: 20px;
-}
-
-ul {
 	text-align: center; 
 	list-style-type: none;
 	background-color: #cccccc;  
