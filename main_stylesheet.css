@@ -8,5 +8,9 @@ h1 {
 
 li {
 	display: inline; /*http://www.w3schools.com/css/css_navbar.asp*/
-	text-align: center;
+}
+
+ul {
+	text-align: center; 
+	list-style-type: none; 
 }
