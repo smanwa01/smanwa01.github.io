@@ -6,13 +6,13 @@ h1 {
 	font-family: cambria; 
 }
 
-li.#nav {
+.nav li {
 	display: inline; /*http://www.w3schools.com/css/css_navbar.asp*/
 	font-size: 20px;
 	
 }
 
-ul.#nav{
+.nav ul { 
 	text-align: center; 
 	list-style-type: none;
 	background-color: #cccccc;  
