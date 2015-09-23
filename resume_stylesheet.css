@@ -6,12 +6,13 @@ h1 {
 	font-family: cambria; 
 }
 
-h3, p, li {
+h3, p, li, ul {
 	font-family: cambria; 
 }
 
 p {
 	text-align: center;
+	font-size: 18px;
 }
 
 .nav li {  /*http://css-snippets.com/simple-horizontal-navigation/*/
