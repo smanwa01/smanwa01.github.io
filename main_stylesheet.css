@@ -15,6 +15,7 @@ ul {
 	text-align: center; 
 	list-style-type: none;
 	background-color: #cccccc;  
+	border-style: solid;
 }
 
 a {
