@@ -19,6 +19,10 @@ h1 {
 	border-style: solid;
 }
 
+.nav a {
+	color: black;
+}
+
 h3, p, li {
 	font-family: cambria; 
 }
