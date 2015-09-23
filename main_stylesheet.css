@@ -8,11 +8,16 @@ h1 {
 
 li {
 	display: inline; /*http://www.w3schools.com/css/css_navbar.asp*/
-	font-family: cambria;
-	font-size: 90; 
 }
 
 ul {
 	text-align: center; 
 	list-style-type: none; 
+}
+
+p {
+	font-family: cambria;
+	font-size: 50;
+	text-align: center;
+	font-style: italic;
 }
