@@ -17,7 +17,7 @@ p {
 .nav li {  /*http://css-snippets.com/simple-horizontal-navigation/*/
 	display: inline; 
 	font-size: 20px;
-	
+	text-align: center;
 }
 
 .nav ul { 
