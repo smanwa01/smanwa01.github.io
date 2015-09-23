@@ -1,0 +1,23 @@
+/* Stylesheet for resume page */
+/* Created by Steven Manwaring 9/22/15 */
+
+h1 {
+	text-align: center;
+	font-family: cambria; 
+}
+
+li {
+	display: inline; /*http://www.w3schools.com/css/css_navbar.asp*/
+	font-size: 20px;
+}
+
+ul {
+	text-align: center; 
+	list-style-type: none;
+	background-color: #cccccc;  
+	border-style: solid;
+}
+
+h3 {
+	font-family: cambria; 
+}
