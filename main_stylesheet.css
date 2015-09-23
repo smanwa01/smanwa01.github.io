@@ -13,7 +13,8 @@ li {
 
 ul {
 	text-align: center; 
-	list-style-type: none; 
+	list-style-type: none;
+	background-color: gray;  
 }
 
 p {
