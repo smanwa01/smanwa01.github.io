@@ -18,4 +18,4 @@ I beleive I correctly implemented all aspects of this assignment. I was a little
 
 I did not collaborate with any classmates on this assignment. I recieved some basic git/github help from a TA. 
 
-I spent approximately _____ hours on this assignment.
+I spent approximately 10-15 hours on this assignment.
