@@ -27,9 +27,4 @@ h3, p, li {
 	color: black;
 }
 
-.remove_bulletpoint li { /*remove double bullet points as a result of nested list in resume.html*/
-	list-style-type: none; 
-}
-
-
 
