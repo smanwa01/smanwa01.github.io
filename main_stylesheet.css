@@ -13,4 +13,6 @@ li {
 ul {
 	text-align: center; 
 	list-style-type: none; 
+	font-family: cambria;
+	font-size: 60; 
 }
