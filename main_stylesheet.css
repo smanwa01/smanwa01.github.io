@@ -8,6 +8,7 @@ h1 {
 
 li {
 	display: inline; /*http://www.w3schools.com/css/css_navbar.asp*/
+	font-size: 20px;
 }
 
 ul {
@@ -17,7 +18,7 @@ ul {
 
 p {
 	font-family: cambria;
-	font-size: 24px;
+	font-size: 18px;
 	text-align: center;
 	font-style: italic;
 }
