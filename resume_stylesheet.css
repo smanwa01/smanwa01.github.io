@@ -19,6 +19,11 @@ p {
 	font-size: 18px;
 }
 
+img {
+	display: block;
+	margin: 0 auto; /*http://stackoverflow.com/questions/7055393/center-image-using-text-align-center*/
+}
+
 .nav li {  /*http://css-snippets.com/simple-horizontal-navigation/*/
 	display: inline; 
 	font-size: 20px;
