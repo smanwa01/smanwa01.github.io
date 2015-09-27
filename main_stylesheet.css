@@ -3,7 +3,7 @@
 
 h1 {
 	text-align: center;
-	font-family: cambria; 
+	font-family: helvetica; 
 }
 
 .nav li {  /*http://css-snippets.com/simple-horizontal-navigation/*/
@@ -25,7 +25,7 @@ h1 {
 
 p {
 	font-family: cambria;
-	font-size: 18px;
+	font-size: 20px;
 	text-align: center;
 	font-style: italic;
 }
@@ -33,4 +33,10 @@ p {
 img {
 	display: block;
 	margin: 0 auto; /*http://stackoverflow.com/questions/7055393/center-image-using-text-align-center*/
+}
+
+.boldNavText {
+	font-weight: bold;
+	text-decoration: none;
+	display: inline;
 }
