@@ -12,7 +12,7 @@ h1, h2 {
 
 h1 {
 	background-image: url(beach.jpg);
-	background-position: center;
+	background-position: 15,100;
 	padding-top: 10%;
 	padding-bottom: 5%;
 }
