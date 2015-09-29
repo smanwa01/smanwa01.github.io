@@ -13,7 +13,7 @@ This project is a website that contains three pages/files:
 It also contains one .css file:
 1.) resume_stylesheet.css - Used for all three pages: index.html, resume.html and bio.html pages (I was unsure how renaming the file might affect pushing to github). 
 
-Note: main_stylesheet.css is no longer used. I found that having two css files was redundant, and I was able to combine both into one.  The only stylesheet any of my pages uses in resume_stylesheet.css.
+Note: main_stylesheet.css is no longer used. I found that having two css files was redundant, and I was able to combine both into one.  The only stylesheet any of my pages uses is resume_stylesheet.css.
 
 I beleive I correctly implemented all aspects of this assignment. I was a little unsure about the correct way to create the bio and resume pages. I created the files in my master github repo and then linked them to my index.html page, which seems to have worked although I'm not sure it is the prefered method. 
 
